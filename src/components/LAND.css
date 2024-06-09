@@ -1,0 +1,54 @@
+.brief1{
+    text-align: center;
+    padding-top: 125px;
+    background-color: aliceblue;
+    margin-bottom: -20px;
+}
+
+.brief1 ul{    
+    justify-content: space-evenly;
+    list-style: none;
+    display: flex;
+    padding-top: 50px;
+    
+}
+
+.icons{
+    font-size:45px;
+    padding-bottom: 15px;
+}
+
+.brief2{
+    text-align: center;
+    padding-top: 200px;
+    background-color: aliceblue;
+}
+
+.brief2 ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+    color: #4B2A63;
+    padding: 40px;
+    font-size: 22px;
+    font-weight: bold;
+    background-color: white;
+    
+}
+
+.brief2 p{
+    background-color: white;
+}
+
+
+.brief2 img{
+    padding-bottom: 25px;
+}
+
+.brief{
+    font-size: 20px;
+    padding: 0px 420px;
+}
+
+
+

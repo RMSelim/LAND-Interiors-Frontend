@@ -1,0 +1,34 @@
+.intro{
+    display: flex;
+}
+
+.div1{
+    padding-top: 200px;
+    padding-left: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.p1{
+    
+    font-size: 40px;
+    line-height: 0%;
+}
+
+.p2{
+    padding-bottom: 20px;
+    color: #3b204e;
+    font-size: 50px;
+}
+
+
+.intro button{
+    background-color: #4B2A63;
+    color: white;
+    cursor: pointer;
+    font-size: 30px;
+    padding:25px 80px;
+}
+
+
+

@@ -1,0 +1,47 @@
+.blog{
+    padding-left: 65px;
+    background-color: aliceblue;
+}
+
+.blog style{
+    font-size: 1000px;
+}
+
+.blog ul{
+    display: flex;
+    list-style: none;
+    margin-bottom: 25px;
+}
+
+.blog li{
+    margin-right: 30px;
+}
+
+.blog h1{
+    font-size: 30px;
+    padding-left: 40px;
+    color: #241330;
+    margin-bottom: 50px;
+}
+
+.blog h2{
+    margin: 0px;
+}
+
+.blog p{
+    margin-top: 0px;
+    font-size: 17.5px;
+}
+
+
+.blog button{
+
+    background-color: #4B2A63;
+    color: white;
+    cursor: pointer;
+    font-size: 22px;
+    padding:12px 80px;
+    align-items: center;
+    margin-top: 50px;
+    margin-left: 820px;
+}
